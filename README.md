@@ -6,17 +6,6 @@ Function arguments are a powerful tool in programming.  As we'll see, arguments 
 
 When used correctly, function arguments bring clarity to what inputs a function needs to operate, as well as how a function uses these inputs.  
 
-
-> Description: 
-* What parameters and arguments are, why they are useful, and how to use them.
-* Notes
-* Function with 1 argument: what if we want to get the mean of a list_2
-* def mean(list):
-* avg= sum(list)/ len(list)
-* return avg
-* then call mean(list_2)
-* Learn about functions with 2+ arguments
-
 ## Objectives
 You will be able to:
 * Create and use custom functions with arguments
